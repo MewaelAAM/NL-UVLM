@@ -1,0 +1,1 @@
+This is a non linear vortex lattice method for rotors. The VLM part is fully functional the non-linear part is yet to be finalized. Will be extended to include vortex particle method for wake analysis
