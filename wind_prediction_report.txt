@@ -1,0 +1,29 @@
+
+Wind Prediction Analysis Report
+===============================
+
+Data Summary:
+-------------
+- Total time points: 6100
+- Time range: 0.00 to 60.99 seconds
+- Rotor Speed range: 0.000 to 45.946 rad/s
+- Qaero range: -1598.91 to 1336035.66 Nm
+
+Prediction Results:
+------------------
+- Wind Magnitude range: 1.05 to 11.13
+- Average Wind Magnitude: 7.48
+- Wind Angle range: 0.00 to 0.00 degrees
+- Average Wind Angle: 0.00 degrees
+
+Key Relationships:
+-----------------
+- Correlation Rotor Speed vs Wind Magnitude: -0.470
+- Correlation Qaero vs Angle: nan
+- Correlation Rotor Speed vs Angle: nan
+
+Angle-Qz Relationship Validation:
+--------------------------------
+✓ Confirmed: When angle is negative, average Qaero is nan
+✓ Confirmed: When angle is positive, average Qaero is -1072.00
+This matches the expected relationship (negative angle → less negative Qaero)

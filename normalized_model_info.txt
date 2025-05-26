@@ -1,0 +1,9 @@
+Normalized Polynomial Model Information
+=======================================
+Polynomial Order: 8
+R² Score: 0.555779
+
+Data Ranges:
+  RPM: [20.00, 45.00], mean = 32.50, std = 8.54
+  WindZ: [-4.10, 4.10], mean = 0.00, std = 1.73
+  Propeller_1_Fy: [0.48, 9.84], mean = 3.26, std = 2.05

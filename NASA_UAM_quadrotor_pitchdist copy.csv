@@ -1,0 +1,8 @@
+r/R,twist (deg),,,delta theta (deg),formula (delta_theta * (r/R-0.75)),collective pitch angle (deg)
+0,19,9,,-12,,10
+0.12,17.5,7.5,,,,
+0.25,16,6,,,,
+0.5,13,3,,,,
+0.85,8.8,-1.2,,,,
+0.95,7.6,-2.4,,,,
+1,7,-3,,,,
